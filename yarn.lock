@@ -4553,9 +4553,9 @@ neo-async@^2.6.0:
   resolved "https://registry.yarnpkg.com/neo-async/-/neo-async-2.6.1.tgz#ac27ada66167fa8849a6addd837f6b189ad2081c"
   integrity sha512-iyam8fBuCUpWeKPGpaNMetEocMt364qkCsfL9JuhjXX6dRnguRVOfk2GZaDpPjcOKiiXCPINZC1GczQ7iTq3Zw==
 
-"newlib2@git+https://github.com/sangameshrently/newlib2.git#v1.0.7":
-  version "1.0.7"
-  resolved "git+https://github.com/sangameshrently/newlib2.git#62e201b9a4d44df9e916bf8703bba9ffe5d2fa9b"
+"newlib2@git+https://github.com/sangameshrently/newlib2.git#v1.0.8":
+  version "1.0.8"
+  resolved "git+https://github.com/sangameshrently/newlib2.git#2b0bc6e376a3635ed18162337bbd887eec28c295"
   dependencies:
     aes-js "^3.1.2"
     axios "^0.18.0"
