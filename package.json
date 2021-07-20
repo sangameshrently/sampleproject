@@ -10,7 +10,7 @@
   "dependencies": {
     "newlib2": "git+https://github.com/sangameshrently/newlib2.git#v1.0.8",
     "react": "16.8.6",
-    "react-native": "0.60.4",
+    "react-native": "0.62.3",
     "react-native-ble-plx": "^1.0.3"
   },
   "devDependencies": {
